@@ -4,8 +4,8 @@ Thanks for checking out my front-end coding solution. This is a solution to the 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/huddlelandingpagedesignfrontendmentor-8zHEF9UaiH)
+- Live Site URL: (https://ozlemxates.github.io/Huddle-Landing-Page-Design-Frontend-Mentor/)
 
 ### Built with
 
