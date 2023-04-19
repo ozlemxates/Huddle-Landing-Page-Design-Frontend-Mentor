@@ -87,12 +87,36 @@ footer i:hover {
 
 }
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution { 
+    color: #ffff;
+    font-size: 11px; text-align: center; }
+.attribution a { color: hsl(0, 0%, 100%); }
 
 @media only screen and (max-width:768px) {
-    main {
+
+    body {
+
+    }
+    .content {
         flex-direction: column;
-        /* does not work */
+        justify-content: center;
+        align-items: center;
+    }
+
+    header img {
+        width: 25%;
+        
+    }
+    .aside {
+        text-align: center;
+    }
+
+    h1,p {
+        text-align: center;
+    }
+
+    .attribution {
+        text-align: center;
+        margin-bottom: 0;
     }
 }
