@@ -23,6 +23,7 @@ header {
 }
 
 header img {
+    margin: 30px auto auto 30px;
     width: 16%;
 }
 
@@ -85,6 +86,7 @@ footer i {
     text-align: center; 
     border: 2px solid #ffff;
     border-radius: 50% 50%;
+    margin-top: -86px;
 }
 
 footer i:hover {
