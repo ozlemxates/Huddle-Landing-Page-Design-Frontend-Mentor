@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+:root {
+    --violet: hsl(257, 40%, 49%);
+    --magenta: hsl(300, 69%, 71%);
+    --font-os: 'Open Sans', sans-serif;
+    --font-p: 'Poppins', sans-serif;
+}
+
+body {
+    background-color:var(--violet) ;
+    background-image: url(images/bg-desktop.svg);
+    color: #ffff;
+}
+
+header {
+    margin-top: 10px;
+}
+
+header img {
+    width: 16%;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    margin:90px;
+    gap:40px;
+}
+
+aside {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: var(--font-p);
+}
+
+p {
+    font-size: 20px;
+    color: #c6c4c4;
+    font-family: var(--font-os);
+}
+
+button {
+    width: 155px;
+    height: 45px;
+    font-size: 20px;
+    color: var(--violet);
+    background-color: #ffff;
+    border-radius: 24px;
+    border: 0;
+}
+button:hover {
+    background-color: var(--magenta);
+    color: #ffff;
+}
+
+main footer {
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    margin-right: 30px;
+
+}
+
+footer i {
+    width: 32px;
+    height: 32px;
+    padding: 6px;
+    display: table-cell;
+    text-align: center; 
+    border: 2px solid #ffff;
+    border-radius: 50% 50%;
+}
+
+footer i:hover {
+    border: 2px solid var(--magenta);
+
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+@media only screen and (max-width:768px) {
+    main {
+        flex-direction: column;
+        /* does not work */
+    }
+}
