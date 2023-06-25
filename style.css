@@ -75,7 +75,6 @@ main footer {
     justify-content: end;
     gap: 10px;
     margin-right: 30px;
-
 }
 
 footer i {
@@ -86,7 +85,6 @@ footer i {
     text-align: center; 
     border: 2px solid #ffff;
     border-radius: 50% 50%;
-    margin-top: -86px;
 }
 
 footer i:hover {
@@ -129,6 +127,12 @@ footer i:hover {
     .attribution {
         text-align: center;
         margin-bottom: 0;
+    }
+
+    .icons {
+        display: flex;
+        gap: 8px;
+        margin-left: 13px;
     }
 
     footer i {
