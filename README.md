@@ -1,11 +1,26 @@
 ## Hello! 👋
 
-Thanks for checking out my front-end coding solution. This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). 
+Thanks for checking out my front-end coding solution for [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). 
+
+## Table of contents
+
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Author](#author)
+
+  ### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/huddlelandingpagedesignfrontendmentor-8zHEF9UaiH)
-- Live Site URL: (https://ozlemxates.github.io/Huddle-Landing-Page-Design-Frontend-Mentor/)
+- Solution URL: [Here] (https://www.frontendmentor.io/solutions/huddlelandingpagedesignfrontendmentor-8zHEF9UaiH)
+- Live Site URL: [Here] (https://ozlemxates.github.io/Huddle-Landing-Page-Design-Frontend-Mentor/)
 
 ### Built with
 
@@ -13,7 +28,9 @@ Thanks for checking out my front-end coding solution. This is a solution to the 
 - CSS custom properties
 - Flexbox
 
+### Author
 
+- GitHub - [ozlemxates](https://github.com/ozlemxates)
+- Frontend Mentor - [@ozlemxates](https://www.frontendmentor.io/profile/ozlemxates)
 
-
-
+### Thank you for checking out! 🎉
