@@ -4,18 +4,23 @@ Thanks for checking out my front-end coding solution for [Huddle landing page wi
 
 ## Table of contents
 
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [Author](#author)
+- [The challenge](#the-challenge)
+- [Screenshots](#screenshots)
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
-  ### The challenge
+### The challenge
 
 Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
+
+### Screenshots
+
+![](ss-desktop.jpg)
+![](ss-mobile.jpg)
 
 ### Links
 
